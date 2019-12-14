@@ -1,28 +1,8 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: '/Alpha-Jekyll-Theme'
 
-# Build settings
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-sitemap
+url: "http://localhost:4000"
 
-# Pages Path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+paginate: 10
 
-include:
-  - _pages
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
