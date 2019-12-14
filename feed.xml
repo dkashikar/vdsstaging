@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Vaidic Dharma Sansthan</title>
+    <link href="https://staging2.vaidicpujas.org/feed.xml" rel="self" />
+    <link href="https://staging2.vaidicpujas.org" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Dinesh Kashikar</name>
+    </author>
+    <id>https://staging2.vaidicpujas.org</id>
+
+</feed>

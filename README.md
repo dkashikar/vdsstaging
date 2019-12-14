@@ -1,2 +1,0 @@
-# vdsstaging
-VDS Staging Server
