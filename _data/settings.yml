@@ -38,10 +38,9 @@ hero:
   hero-title: Vaidic <br> Dharma <br> Sansthan
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "fb.com/VaidicPujas"}
+- {icon: "ti-instagram", link: "instagram.com/vaidicdharmasansthan"}
+- {icon: "ti-twitter", link: "twitter.com/vaidicpujas"}
 
 
 #-------------------------------
