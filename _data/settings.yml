@@ -1,11 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Vaidic Dharma Sansthan
 logo: logo.png
-email: steve.fruits@email.com
+email: info@vaidicpujas.org
 phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+address: 21 Km Kanakapura Road, Udayapura, Bangalore - 560082
 
 menu:
 - {name: About, link: '/about/'}
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Vaidic <br> Dharma <br> Sansthan
 
 social:
 - {icon: "ti-facebook", link: "#"}
